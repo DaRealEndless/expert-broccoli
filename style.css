@@ -1,0 +1,45 @@
+.heading {
+    width: 100%;
+    margin-top: 0px;
+    font-size: 20px;
+}
+
+#note {
+    color: black;
+    font-size: 17px;
+}
+
+body {
+    background-size: cover;
+}
+
+#div_disk {
+    float: left;
+}
+
+img {
+    width: 200px;
+    margin-left: 10px;
+}
+
+#div_disk2 {
+    float: right;
+}
+
+label {
+    font-size: 17px;
+    text-shadow: 5px 5px 10px black;
+    box-shadow: 5px 5px 15px wheat;
+}
+
+.btn_play {
+    font-size: 25px;
+    width: 100px;
+    font-style: italic;
+}
+
+canvas {
+    border: 15px gray solid;
+    border-radius: 25px;
+    margin-top: 100px;
+}
